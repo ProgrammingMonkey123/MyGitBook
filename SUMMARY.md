@@ -12,5 +12,4 @@
   * [SLAM构建](软件/SLAM构建.md)
   * [数据融合](软件/数据融合.md)
   * [决策](软件/决策.md)
-* [book.json](bookjson.md)
 
