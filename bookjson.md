@@ -1,26 +1,13 @@
-{
+---
+plugins:
+  - katex
+  - highlight
+  - fontsettings
+  - livereload
+  - lunr
+  - search
+  - sharing
+---
 
 
-
-"plugins": \[
-
-"katex",
-
-"highlight",
-
-"fontsettings",
-
-"livereload",
-
-"lunr",
-
-"search",
-
-"sharing"
-
-\],
-
-
-
- }
 
